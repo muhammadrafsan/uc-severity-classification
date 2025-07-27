@@ -16,8 +16,11 @@ A triple pronged approach for ulcerative colitis severity classification using m
 This repository contains the official implementation for the paper:
 
 > ***A triple pronged approach for ulcerative colitis severity classification using multimodal, meta, and transformer based learning***
+> 
 > Md. Nasim Ahmed*, Dipta Neogi*, Muhammad Rafsan Kabir*, Shafin Rahman, Sifat Momen, Nabeel Mohammed
+> 
 > Published in *Scientific Reports (Nature)*, 2025. [[DOI:10.1038/s41598-025-12827-5]](https://doi.org/10.1038/s41598-025-12827-5)
+
 
 We propose a **triple-pronged framework** combining:
 1. **Multimodal learning** (CLIP, BLIP, FLAVA)
